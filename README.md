@@ -1,9 +1,9 @@
 # Hi, I'm Shreemoyee Ball 👋
 
 🎓 B.Tech CSE student | 2nd Year  
-☕ Java enthusiast | Currently learning Data Structures  
+☕ Java enthusiast | Currently learning OOP & Data Structures  
 🚀 Building projects and grinding toward my first internship  
-📍 India
+📍 Durgapur, West Bengal
 
 ---
 
@@ -18,7 +18,7 @@
 
 ## 📚 Currently Learning
 
-- ✅ Java 
+- ✅ Java OOP — Classes, Inheritance, Polymorphism, Interfaces
 - 🔄 Data Structures & Algorithms
 - 🔄 Git & GitHub workflows
 - 🔜 Building real-world projects
@@ -28,7 +28,7 @@
 ## 🎯 Goals
 
 - 🏢 Land a software internship in 3rd year
-- 🏆 Target product companies by final year
+- 🏆 Target product companies like Adobe by final year
 - 💻 Contribute to open source
 
 ---
@@ -43,11 +43,12 @@
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreemoyee-ball)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreemoyee-ball-7829111ab/)
 
 ---
 
 ⭐ *"Consistent effort beats occasional brilliance."*
+
 
 
 <!--
