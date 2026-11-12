@@ -38,9 +38,10 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=shreemoyeeball7126-gif&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=3)
+## 📊 GitHub
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreemoyeeball7126-gif&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&v=2)
+![Followers](https://img.shields.io/github/followers/shreemoyeeball7126-gif?style=for-the-badge&logo=github&color=181717)
+![CodeStorm language](https://img.shields.io/github/languages/top/shreemoyeeball7126-gif/CodeStorm?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
