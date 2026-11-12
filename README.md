@@ -1,10 +1,13 @@
 # Hi, I'm Shreemoyee Ball 👋
 
-🎓 B.Tech CSE student | 2nd Year  
-☕ Java enthusiast | Currently learning OOP & Data Structures  
-🚀 Building projects and grinding toward my first internship  
-📍 Durgapur, West Bengal
+🎓 2nd-year B.Tech CSE @ ITER, SOA University
+💻 Building with Java, Python (ML), and TypeScript
+🚀 Looking for a software internship (remote or on-site) where I can ship real features
+📫 shreemoyeeball@gmail.com | [LinkedIn](https://www.linkedin.com/in/shreemoyee-ball-7829111ab/)
 
+## Featured projects
+- **[CodeStorm](https://github.com/shreemoyeeball7126-gif/CodeStorm)**: predicts campus meal demand with ML and matches surplus food to recipients
+- **[last-minute-life-saver](https://github.com/shreemoyeeball7126-gif/last-minute-life-saver)**: [one line on what it does]
 ---
 
 ## 🛠️ Tech Stack
