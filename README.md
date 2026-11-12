@@ -38,8 +38,6 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub
-
 ![Followers](https://img.shields.io/github/followers/shreemoyeeball7126-gif?style=for-the-badge&logo=github&color=181717)
 ![CodeStorm language](https://img.shields.io/github/languages/top/shreemoyeeball7126-gif/CodeStorm?style=for-the-badge&logo=python&logoColor=white)
 
