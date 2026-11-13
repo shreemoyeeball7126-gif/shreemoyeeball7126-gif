@@ -7,7 +7,7 @@
 
 ## Featured projects
 - **[CodeStorm](https://github.com/shreemoyeeball7126-gif/CodeStorm)**: predicts campus meal demand with ML and matches surplus food to recipients
-- **[last-minute-life-saver](https://github.com/shreemoyeeball7126-gif/last-minute-life-saver)**: [one line on what it does]
+- **[last-minute-life-saver](https://github.com/shreemoyeeball7126-gif/last-minute-life-saver)**: helps plan studying according importance and balance time efficiently
 ---
 
 ## 🛠️ Tech Stack
